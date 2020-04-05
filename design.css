@@ -1,0 +1,33 @@
+pre.code {
+  background-color: #282a36;
+  color: #f8f8f2;
+}
+
+pre.code .synComment {
+  color: #6272a4;
+}
+
+pre.code .synConstant {
+  color: #bd93f9;
+}
+
+pre.code .synIdentifier {
+  color: #f8f8f2;
+}
+
+pre.code .synPreProc {
+  color: #ff79c6
+}
+
+pre.code .synSpecial {
+  color: #ff79c6;
+}
+
+pre.code .synStatement {
+  color: #ff79c6;
+}
+
+pre.code .synType {
+  color: #8be9fd;
+  font-style: italic;
+}
